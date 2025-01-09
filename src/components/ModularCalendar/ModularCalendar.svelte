@@ -85,6 +85,7 @@
    }
 
    .day-flex {
+      border: 1px solid red;
       flex: 3;
       aspect-ratio: 1/1;
    }
